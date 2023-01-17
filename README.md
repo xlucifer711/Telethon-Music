@@ -11,7 +11,7 @@
 
 <p align="center">المطور زين </p>
 
-<p align="center"><a href="https://t.me/iiqllll"> <img src="https://telegra.ph/file/556e5178cd3a00c1b6cf0.png" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://t.me/iiqllll"> <img src="https://telegra.ph/file/556e5178cd3a00c1b6cf0.png" width="220" height="305"/></a></p>
 
 
 ## Local Deployment Process
